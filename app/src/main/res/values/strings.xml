@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodingTalkActivity</string>
+    <string name="nilai_uts">Nilai UTS</string>
+    <string name="nilai_uas">Nilai UAS</string>
+    <string name="rata_rata">Hitung Rata-Rata</string>
+    <string name="hasil">Hasil</string>
+</resources>
